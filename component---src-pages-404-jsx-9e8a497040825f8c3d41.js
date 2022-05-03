@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmelon=self.webpackChunkmelon||[]).push([[256],{1657:function(e,t,n){n.r(t);var l=n(6771),i=(n(7294),n(151)),u=n(3431);t.default=function(){return(0,u.tZ)(i.H,{pageTitle:"ホーム",headerTitle:"HOME"},(0,u.tZ)(a,null,(0,u.tZ)("h1",null,"404",(0,u.tZ)("br",null),"NOT FOUND")))};var a=(0,l.Z)("section",{target:"e1w1vnky0"})({name:"yx8vig",styles:"height:100vh;display:flex;align-items:center;justify-content:center"})}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-9e8a497040825f8c3d41.js.map
